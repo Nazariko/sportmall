@@ -1,2 +1,0 @@
-# sportmall
-my company 
